@@ -33,8 +33,8 @@ This project is a MERN stack application that allows users to interact with tran
 **Clone the Repository**
 
 ```bash
-  git clone <repository-url>
-  cd <repository-folder>
+  git clone https://github.com/DevVaradPatil/mern-transaction-dashboard
+  cd mern-transaction-dashboard
 ```
 
 **Backend setup**
